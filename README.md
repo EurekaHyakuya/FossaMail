@@ -1,13 +1,11 @@
-# FossaMail
+ # Project Labrastroodle
 
 
-FossaMail is a Thunderbird-based mail/news client building on the Pale Moon web browser core.
+Project Labrastroodle is a Thunderbird-based mail/news client forked from the noe defunct FossaMail 27.x codebase.
 
 The source tree is mostly laid out like the Mozilla Thunderbird tree and links to Pale Moon 
 as a git sub-repo for easy management and updates of the back-end code.
 
 ## Important
 
-FossaMail is currently a discontinued product. If you want to pick up the torch, feel free
-to fork this repository but **make sure you change the branding** if you plan to distribute the
-client. You do not have the rights to use FossaMail's official branding.
+Project Labrastroodle is currntly pre-alpha in quality and I need some time to fully flush things out before new work can begin. 
