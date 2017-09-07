@@ -8,4 +8,4 @@ as a git sub-repo for easy management and updates of the back-end code.
 
 ## Important
 
-Project Labrastroodle is currntly pre-alpha in quality and I need some time to fully flush things out before new work can begin. 
+Project Labrastroodle is currently pre-alpha in quality and I need some time to fully flush things out before new work can begin. 
